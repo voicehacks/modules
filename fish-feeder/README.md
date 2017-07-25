@@ -1,5 +1,5 @@
 # Fish Feeder Skill
-Here we will walk through the process of creating a skill to see when we last fed our pet fish.  We'll eventually add intents to add our own name, our fish's name, and update and report how many times we've fed our fish.
+Here we will walk through the process of creating a skill to see when we last fed our pet fish.  We'll eventually add intents that remember and speak the user's name, our fish's name, and update and report how many times we've fed our fish.
 
 ## Create our first intent
 
