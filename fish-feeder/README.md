@@ -3,6 +3,6 @@ Here we will walk through the process of creating a skill to see when we last fe
 
 ## Create our first intent
 
-In a [previous module](../../../aws) we created the basic Lambda function to welcome our user to the fish feeder skill.  For our first new intent, let's build an intent that simply tells us what day it is. 
+In a [previous module](https://github.com/voicehacks/Initial-setup) we created the basic Lambda function to welcome our user to the fish feeder skill.  For our first new intent, let's build an intent that simply tells us what day it is. 
 
 1. (In progress)
